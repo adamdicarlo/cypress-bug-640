@@ -1,0 +1,16 @@
+{
+  "name": "cypress-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adam DiCarlo <adam.dicarlo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "st . --no-cache --port 1337"
+  },
+  "devDependencies": {
+    "cypress": "^0.20.0"
+  },
+  "dependencies": {
+    "st": "^1.2.0"
+  }
+}
